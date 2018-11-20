@@ -1,0 +1,16 @@
+ h1{
+     font-family: 'Noto Sans TC', sans-serif;
+    background-color: pink;
+    color: purple;
+}
+body{
+    font-family: 'Noto Sans TC', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    background-color: #33FFF0;
+}
+p{
+    color: red;
+}
+li{
+    color:#FF33B5;
+}
